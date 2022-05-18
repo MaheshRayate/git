@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "inital commit"
+git remote add origin (https wali link)
+git push origin master
+
+username vicharel...tithe username takaicha
+password madhe token key generate zaleli takaichi
+
+
+200-Ok and Successfull
+403-Fatal Error
+404-Error Not Found
+401-Forbidden
